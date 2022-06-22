@@ -4,9 +4,9 @@ By Ogundimu Toba.
 A simple HTML CV landing page. It shows basic HTML tags and proper semantic.
 
 ## Technology used
-* _HTML
+* HTML
 
 ## Setup Requirements
-* _Clone the repository to your desktop.
-* _Navigate to the top level of the directory.
-* _Open the assignment2/index.html in your browser.
+* Clone the repository to your desktop.
+* Navigate to the top level of the directory.
+* Open the assignment2/index.html in your browser.
